@@ -62,13 +62,31 @@ p {
 .content {
       display: flex;
       flex-direction: column;
+      justify-content: right;
+      justify-items: flex-start;
 }
 .valueProp {
     margin-top: 15px;
     margin-bottom: 15px;
 }
   }
+  .btn-primary {
+      color: #D3CAC5;
+      background-color: #D3CAC5;
+  }
   /* Footer */
-
+.nav-item {
+    text-decoration: none;
+    font-size: 24px;
+    text-decoration: #271311 !important;
+    color: #271311;
+}
+.navbar-brand {
+    color: #271311;
+    font-size: 28px;
+}
+.footer {
+    background-color: #D3CAC5;
+}
   /* Footer form */
   
