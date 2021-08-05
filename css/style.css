@@ -15,7 +15,6 @@ p {
 .customNav {
     position: fixed;
     width: 100%;
-    background: url("../images/Background\ color\ 271311.png");
     background-color: transparent !important;
     background-size: cover;
     z-index: 10;
@@ -67,12 +66,9 @@ p {
 .valueProp {
     margin-top: 15px;
     margin-bottom: 15px;
-    justify-content: right;
 }
   }
   /* Footer */
-.bottomNav {
-    background-image:url("../images/Background\ color\ 271311.png")
-  }
+
   /* Footer form */
   
