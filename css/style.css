@@ -1,0 +1,78 @@
+body {
+    background-color: #D3CAC5;
+}
+/* Text */
+h1, h2, h3 , h4, h5, h6 {
+    font-family: 'Lusitana', serif;
+  }
+p {
+    font-family: 'Raleway', serif;
+}
+  
+/* Navigation bar */
+  
+/* General */
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/Background\ color\ 271311.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+}
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+.navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+}
+.nav-item {
+    margin: 0px 15px;
+    font-size: 24px;
+}
+  
+/* Navigation links */
+.customNav a {
+    color: #271311 !important;
+}
+.navCTA {
+    font-size: 48px;
+}
+  
+/* Jumbotron  */
+.jumbotron {
+    background-color: #D3CAC5;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(33vh - 25px);
+    display: flex;
+    align-items:center;
+    justify-content: left;
+}
+  
+/* Jumbotron copy */
+.jumboCopy {
+    min-width: 10px;
+    max-width: auto;
+    color: 271311;
+    text-align: left;
+}
+  /* Content */
+.content {
+      display: flex;
+      flex-direction: column;
+}
+.valueProp {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: right;
+}
+  }
+  /* Footer */
+.bottomNav {
+    background-image:url("../images/Background\ color\ 271311.png")
+  }
+  /* Footer form */
+  
