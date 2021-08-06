@@ -88,5 +88,16 @@ p {
 .footer {
     background-color: #D3CAC5;
 }
+#pop{
+    display: none;
+    position: absolute;
+    z-index: 99999;
+    padding: 10px;
+    background: #D3CAC5;
+    border: 1px solid #271311;
+    margin: 15px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(164, 164, 164, 1);
+    box-shadow: 0px 0px 5px 0px rgba(164, 164, 164, 1);
+}
   /* Footer form */
   
